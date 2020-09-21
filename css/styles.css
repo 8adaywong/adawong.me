@@ -1,0 +1,99 @@
+.container-fluid {
+  padding: 0 15 0 15;
+}
+
+.navbar {
+   background: rgba(255, 255, 255, 0.9);
+}
+
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3rem;
+}
+
+.nav-item {
+  padding: 10px;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+h3, h4, a, label, input {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+.header {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.btn {
+  background-color: #FFB4B4;
+  border: #FFB4B4;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+}
+.btn:hover {
+  background-color: #E8ADAD;
+  color: black;
+}
+
+.photobanner {
+  text-align: center;
+
+}
+
+.banner-pic {
+  margin: 35px 10px 35px 10px;
+  border-radius: 30px;
+}
+
+.portfolio-pic {
+  margin: 20px 20px 20px 20px;
+  border-radius: 30px;
+}
+
+.btn-li {
+  background-image:url('img/linkedin.svg');
+}
+
+.image {
+  margin: 20px 10px 32.5px 10px;
+}
+
+.image:hover {
+  cursor: pointer;
+}
+
+.row {
+  margin-top: 10px;
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+.img-fluid {
+  border-radius: 30px;
+}
+
+.about-title {
+  text-align: left;
+  border: black;
+}
+
+.prompt {
+  text-align: center;
+  color: #FFB4B4;
+}
+
+textarea {
+  border-color: #d7d7d7;
+}
